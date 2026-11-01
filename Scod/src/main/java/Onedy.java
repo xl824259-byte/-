@@ -3,6 +3,7 @@ public class Onedy {
     int a=1;
     if(a>0){
     System.out.println("我是Gita");
+    System.out.println("我是你不变");
     }
 }
 }
